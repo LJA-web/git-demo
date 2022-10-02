@@ -7,5 +7,5 @@ esc 退出输入模式
 
 git add hello.txt  将文件提交至暂存区
 git rm --catched hello.txt  将文件从暂存区删除
-
+（master版本）
 2号版本（hot-fix版本）
