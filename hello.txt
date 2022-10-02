@@ -1,0 +1,9 @@
+hello git!
+i 转为输入模式
+yy 表示复制
+p 表示粘贴
+esc 退出输入模式
+:wq 保存并退出
+
+git add hello.txt  将文件提交至暂存区
+git rm --catched hello.txt  将文件从暂存区删除
